@@ -8,15 +8,15 @@ import { TextHover } from '../components/text-hover.component';
 export const InfoSection = () => {
 	return (
 		<div className='hero-section'>
-			<a
-				href='https://github.com/ThinkSike/portfolio'
+			{/* <a
+				href='https://github.com/ThinkSike/Portfolio'
 				target='_blank'
 				rel='noopener noreferrer'
 				className='github-ribbon'
 			>
 				<div>⭐ Star this repo</div>
 				<span></span>
-			</a>
+			</a> */}
 			<FloatingButton
 				label='About Me'
 				className='first'
