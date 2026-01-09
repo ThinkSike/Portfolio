@@ -9,7 +9,7 @@ export const InfoSection = () => {
 	return (
 		<div className='hero-section'>
 			<a
-				href='https://github.com/ThinkSike/portfolio-latest'
+				href='https://github.com/ThinkSike/portfolio'
 				target='_blank'
 				rel='noopener noreferrer'
 				className='github-ribbon'
